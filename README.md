@@ -3,9 +3,7 @@ Simple-Algorithmic-Trading-Strategy
 
 
 Library: 
-datetime
-matplotlib.pyplot
-pandas_datareader
+datetime; matplotlib.pyplot and pandas_datareader
 
 ==============
 
